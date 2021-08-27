@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Thomas
+### Hi there 👋, I'm Thomas
 #### Development
 I'm Thomas from Hungary, and I do content Development(Qt). I really enjoy learning language(Python).
 
