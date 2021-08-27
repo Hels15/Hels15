@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tamás Hadházy
 #### Development
-I'm Thomas from Hungary, and I'm begginer programmer, and I do Development(Qt). I really enjoy learning language(Python).
+I'm Thomas from Hungary, and I'm beginenr programmer, and I do Development(Qt). I really enjoy learning language(Python).
 
 Skills: /Python(QT,Django)
 
