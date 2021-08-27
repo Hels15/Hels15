@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Thomas
+### Hi there 👋, I'm Tamás Hadházy
 #### Development
 I'm Thomas from Hungary, and I do content Development(Qt). I really enjoy learning language(Python).
 
