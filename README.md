@@ -3,6 +3,7 @@
 
 
 ![Development](https://github.com/Hels15/Hels15/blob/main/profile_picture.jpg) 
+
 I'm Thomas from Hungary, and I'm beginenr programmer, and I do Development(Qt). I really enjoy learning language(Python).
 
 Skills: /Python(QT,Django)
