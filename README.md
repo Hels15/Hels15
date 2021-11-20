@@ -9,7 +9,7 @@ I'm Thomas from Hungary, and I'm beginenr programmer, and I do Development(*Qt*)
 🔴Discord: *__Hels__#4632*
 
 
-Skills: /Python(QT,Django)
+Skills: /Python(QT,Django)/Javascript
 
 - 🔭 I’m currently working on this page. 
 
