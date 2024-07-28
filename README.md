@@ -3,7 +3,7 @@ Tamas Hahazy
 # Hi there 👋
 
 - 🔭 I’m currently working on **Donsus**
-- 🌱 I’m currently learning **Calc 1 Maths, llvm IR**
+- 🌱 I’m currently learning **Calc 3 Maths, llvm IR | compilers**
 
 <details>
   <summary style="font-size:1.25em"><strong>My skillset</strong></summary>
